@@ -1,3 +1,4 @@
+project created as a part of understanding backend systems
 # Distributed Web Crawler & Mini Search Engine
 
 A Python-based multi-threaded web crawler that collects URLs from websites and stores them in a SQLite database.
